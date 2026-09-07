@@ -2,6 +2,7 @@
 Repositório dedicado ao projeto da plataforma DIO.
 
 **Contexto**
+
 Escolhi estudar Dados com Python porque tenho interesse em conhecer melhor essa área e entender como Python pode ser usado para trabalhar com dados. Neste caderno, vou estudar desde a organização e limpeza dos dados até sua análise e visualização.
 
 **Objetivos**
