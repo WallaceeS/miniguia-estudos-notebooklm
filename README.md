@@ -24,9 +24,13 @@ https://numpy.org/doc/stable/
 https://matplotlib.org/stable/
 
 **Engenharia de Prompts**
-Primeiro Prompt:
+
+**Primeiro Prompt:**
+
 Com base nas fontes disponíveis, quais são as principais etapas envolvidas em um processo de análise de dados utilizando Python? Explique a finalidade de cada etapa e mostre quais ferramentas ou bibliotecas podem ser utilizadas em cada uma delas.
+
 Resultado:
+
 1. Entrada, Leitura e Saída de Dados (I/O)
 A análise se inicia com o carregamento e o acesso aos dados brutos para que possam ser manipulados.
 No Python básico: É possível realizar a leitura e a escrita de arquivos, bem como salvar dados estruturados utilizando o formato JSON
@@ -55,9 +59,12 @@ Python básico: Oferece suporte interno para matemática
 A etapa final consiste em traduzir os dados processados e as descobertas estatísticas em formatos visuais compreensíveis.
 Matplotlib: É a biblioteca abrangente voltada para a criação de visualizações estáticas, animadas e interativas, transformando dados complexos em gráficos claro
 
-Segundo Prompt:
+**Segundo Prompt:**
+
 Quais são as principais funcionalidades do Pandas para manipulação de dados? Organize a resposta por tarefas, como carregamento, seleção, filtragem, transformação e agregação. Para cada tarefa, explique sua finalidade e cite os recursos ou métodos apresentados nas fontes.
+
 Resultado:
+
 . Estruturas de Dados Fundamentais
 Antes de manipular os dados, o pandas organiza as informações em duas estruturas principais:
 Series: Voltada para dados unidimensionais
@@ -162,11 +169,13 @@ Depois de preparados, os dados podem ser filtrados, selecionados, transformados 
 Os resultados podem ser apresentados por meio de gráficos, facilitando a identificação de padrões e a interpretação das informações.
 
 Principais bibliotecas
+
 Pandas: manipulação e análise de dados, utilizando estruturas como Series e DataFrame.
 NumPy: operações numéricas e computação científica.
 Matplotlib: criação de gráficos e visualizações.
 
 ** 2. Glossário**
+
 - DataFrame	Estrutura de dados do Pandas organizada em linhas e colunas.
 - Series	Estrutura unidimensional utilizada pelo Pandas.
 - Dataset	Conjunto de dados utilizado em uma análise.
